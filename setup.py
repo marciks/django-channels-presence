@@ -15,7 +15,7 @@ setup(
     license='MIT License',
     description='Tracking socket presence in "rooms" using django-channels',
     long_description=README,
-    url='https://github.com/ivahotin/django-channels-presence',
+    url='https://github.com/marciks/django-channels-presence',
     author='Charlie DeTar',
     author_email='cfd@media.mit.edu',
     classifiers=[
